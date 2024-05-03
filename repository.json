@@ -1,5 +1,5 @@
-{
-    "name": "Home Assistant Add-on: Actual Budget",
+ {
+    "name": "Forked Home Assistant Add-on: Actual Budget",
     "url": "https://github.com/metabubble/hassio-actualbudget",
     "maintainer": "Christian Hawkins <christian.hawkins@mailbox.org>"
   }
